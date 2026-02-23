@@ -1,0 +1,2 @@
+# Example case
+In this case we will provide an example of the implementation of Foreshot this is aimed at [To be released] as an advisary. This example case will also go in too the needed opsec to prevent implications. It will follow the guidelines as provided in methodology. The product of this example will be a succesfull implementation of the methodology and report. Unfortunally it is not possible to provide constant updates.
